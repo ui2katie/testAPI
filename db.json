@@ -1,0 +1,45 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "MEMBER_ID": 1,
+      "L_NAME": "きむ",
+      "F_NAME": "じぇひょん",
+      "L_KANA": "キム",
+      "F_KANA": "ジェヒョン",
+      "PC_MOBILE_KBN": 1,
+      "ZIP": "2120013",
+      "ADDR1": "神奈川県",
+      "ADDR2": "川崎市幸区堀川町",
+      "ADDR3": "１１１",
+      "id": 2
+    },
+    {
+      "MEMBER_ID": 2,
+      "L_NAME": "きむ",
+      "F_NAME": "じぇひょん",
+      "L_KANA": "キム",
+      "F_KANA": "ジェヒョン",
+      "PC_MOBILE_KBN": 1,
+      "ZIP": "2120013",
+      "ADDR1": "神奈川県",
+      "ADDR2": "川崎市幸区堀川町",
+      "ADDR3": "１１１",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
